@@ -1,0 +1,4 @@
+interface:
+  display_name: "发版检查清单"
+  short_description: "检查前端发版和业务回归风险"
+  default_prompt: "使用 $release-checklist-skill 为当前前端仓库准备一份发版就绪检查清单 release checklist，重点检查旧业务稳定性、误发和漏发风险。"
