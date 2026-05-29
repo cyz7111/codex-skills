@@ -1,0 +1,4 @@
+interface:
+  display_name: "前端开发协作协议"
+  short_description: "约束日常前端开发、review 和验证流程"
+  default_prompt: "使用 $frontend-dev-standards 协助当前前端任务，先识别项目现有模式，再实现、检查边界状态并给出验证结果。"
