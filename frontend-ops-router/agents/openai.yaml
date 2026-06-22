@@ -1,0 +1,4 @@
+interface:
+  display_name: "前端运维总入口"
+  short_description: "多项目前端任务分流、优先级判断、风险入口与工作流选择"
+  default_prompt: "Use $frontend-ops-router to classify this frontend task and choose the safest workflow."

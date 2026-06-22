@@ -1,0 +1,4 @@
+interface:
+  display_name: "历史线上问题修复"
+  short_description: "历史遗留线上前端问题安全修复、影响面分析与回滚验证流程"
+  default_prompt: "Use $legacy-production-hotfix to investigate and safely fix this production frontend issue."
